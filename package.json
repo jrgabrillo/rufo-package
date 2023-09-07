@@ -1,5 +1,5 @@
 {
-  "name": "test-package",
+  "name": "rufo-package",
   "version": "1.0.0",
   "description": "test only",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jrgabrillo/test-package.git"
+    "url": "git+https://github.com/jrgabrillo/rufo-package.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jrgabrillo/test-package/issues"
+    "url": "https://github.com/jrgabrillo/rufo-package/issues"
   },
   "publishConfig": {
     "jrgabrillo:registry": "https://npm.pkg.github.com"
   },
-  "homepage": "https://github.com/jrgabrillo/test-package#readme"
+  "homepage": "https://github.com/jrgabrillo/rufo-package#readme"
 }
