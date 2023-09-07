@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jrgabrillo/test-package/issues"
   },
+  "publishConfig": {
+    "jrgabrillo:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/jrgabrillo/test-package#readme"
 }
